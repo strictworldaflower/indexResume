@@ -1,0 +1,15 @@
+
+p.427  lightBox  [ 다운로드 ]
+ 사이트 아래. 참고 !
+
+https://github.com/avioli/jquery-lightbox
+
+
+
+p.429 [ 다운로드 ] 사이트 아래. 참고 !
+
+masonry 플러그 인 
+
+https://masonry.desandro.com/
+
+
